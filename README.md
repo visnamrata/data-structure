@@ -1,2 +1,3 @@
-# data-structure
-practical
+# Data-structure
+**PRACTICAL**
+*college*
